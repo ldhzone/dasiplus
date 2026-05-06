@@ -1,0 +1,21 @@
+# 절대 커밋 금지 — 비밀 자료
+*-private-key.pem
+*private*.pem
+*.key
+.env
+.env.*
+secrets/
+secrets.*
+tokens.*
+*.token
+*-token.*
+client-secret*
+*.client-secret
+oauth-*.json
+auth-*.json
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
